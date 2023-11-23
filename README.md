@@ -7,5 +7,7 @@ Registration and authentication system for users, management of user profiles in
 
 
 ![home_page](https://github.com/ashudevs/Social-media-App/assets/94314465/6c27895d-0401-4673-bec7-8d9ad564da4c)
+![profile_dashboard](https://github.com/ashudevs/Social-media-App/assets/94314465/1f9caa84-9686-48c2-8aaa-d16aab708206)
+
 ![edit_profile](https://github.com/ashudevs/Social-media-App/assets/94314465/9f7bc024-f386-4bdb-b73d-b01c35d00027)
 
